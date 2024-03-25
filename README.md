@@ -25,3 +25,5 @@ curl "https://ntnu-ml.openai.azure.com/openai/deployments/ntnu-ml-gpt4-32k/chat/
 1. 不知道如何在Azure上編輯程式碼
 2. 老師給的金鑰和我的有什麼不同(不是說要申請，但我好像沒申請就有了?)
 4. 部屬後，無法開啟遊樂場
+
+如何寫md : https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
