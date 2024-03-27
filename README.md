@@ -1,6 +1,7 @@
 # **Homework_1**
 
 **作業影片1:**https://youtu.be/CvFW8n6NzlU  (有點問題vscode)
+
 **作業影片2:**https://youtu.be/3ebML93iF-w  (google colab)
 
 ### 平台 : Azure openai services ( Azure是公共雲端計算平台 )
@@ -67,6 +68,8 @@ print(content_value)
 
 print(response.text)
 ```
+
+## 老師PPT: https://hackmd.io/@suensummit/r1nQZzm36#/3
 
 ### Azure是公共雲端計算平台
 
