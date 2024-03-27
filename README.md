@@ -22,6 +22,11 @@ curl "https://ntnu-ml.openai.azure.com/openai/deployments/ntnu-ml-gpt4-32k/chat/
   }"
 ```
 助教的參考程式碼 https://github.com/41071119H-Irene/data_mining/blob/main/Lab%201.ipynb
+
+## 現在遇到的困難
+1. 不知道如何在Azure上跑，無法開啟遊樂場
+2. 跑出來的資料都一樣
+
 ## 輸入
 ```ruby
 import requests
@@ -211,12 +216,7 @@ print(response.text)
 }
 ```
 
-## 現在遇到的困難
-1. 不知道如何在Azure上編輯程式碼
-2. 老師給的金鑰和我的有什麼不同(不是說要申請，但我好像沒申請就有了?)
-4. 部屬後，無法開啟遊樂場
-
-### 平台 : Azure openai services ( Azure是公共雲端計算平台 )
+### Azure是公共雲端計算平台
 
 四種模式:
 
@@ -236,13 +236,13 @@ Community cloud（社群雲）由關注相同議題的企業組成，雲端系�
 
 行業應用：醫療衛生、政府
 
-#### 本地與雲端的服務
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.alicdn.com/tfs/TB14umhPOLaK1RjSZFxXXamPFXa-2305-1451.png_.webp">
   <source media="(prefers-color-scheme: light)" srcset="https://img.alicdn.com/tfs/TB14umhPOLaK1RjSZFxXXamPFXa-2305-1451.png_.webp">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.alicdn.com/tfs/TB14umhPOLaK1RjSZFxXXamPFXa-2305-1451.png_.webp">
 </picture>
+
+#### 本地與雲端的服務
 
 ### API ( Application Programming Interface )
 <picture>
