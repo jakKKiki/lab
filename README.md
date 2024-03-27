@@ -27,7 +27,7 @@ curl "https://ntnu-ml.openai.azure.com/openai/deployments/ntnu-ml-gpt4-32k/chat/
 
 ## 現在遇到的困難
 1. 不知道如何在Azure上跑，無法開啟遊樂場
-2. 跑出來的資料都一樣
+2. 跑出來的資料都一樣在vscode上
 
 ## 輸入
 ```ruby
