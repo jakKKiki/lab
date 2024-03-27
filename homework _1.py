@@ -1,4 +1,5 @@
 import requests
+import json
 
 url = "https://ntnu-ml.openai.azure.com/openai/deployments/ntnu-ml-gpt4-32k/chat/completions?api-version=2024-02-15-preview"
 
@@ -25,5 +26,11 @@ data = {
 }
 
 response = requests.post(url, json=data, headers=headers)
+
+# from ChrGPT
+json_data=response.json()
+# json_data=json.loads(response) 這個是錯的 因為response不是json
+content_value = json_data["choices"][0]["message"]["content"]
+print(content_value)
 
 print(response.text)
