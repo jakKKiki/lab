@@ -1,3 +1,7 @@
+# **Homework_2**
+
+### 目標 : 使用Gemini便是圖片的畫風
+
 # **Homework_1**
 
 **作業影片1:**https://youtu.be/CvFW8n6NzlU  (有點問題vscode)
