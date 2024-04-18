@@ -1,6 +1,6 @@
 # **Homework_2**
 
-### 目標 : 使用Gemini便是圖片的畫風
+### 目標 : 使用Gemini辨識圖片的畫風
 
 # **Homework_1**
 
